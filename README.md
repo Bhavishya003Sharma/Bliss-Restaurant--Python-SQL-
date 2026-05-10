@@ -1,2 +1,27 @@
-# Bliss-Restaurant--Python-SQL-
-Bliss Restaurant is a Python &amp; MySQL based restaurant management system featuring user signup/login, interactive menu, cart management, order placement, and database storage. Built as a Class 12 project to demonstrate Python programming and MySQL integration.
+# Bliss Restaurant Management System
+
+Bliss Restaurant is a Python-based restaurant management system developed using MySQL for database handling.
+The project includes user signup/login authentication, menu management, cart functionality, order placement, and order storage using SQL databases.
+
+## Features
+
+* User Signup & Login System
+* MySQL Database Integration
+* Interactive Food Menu
+* Add/Edit/Delete Cart Items
+* Order Placement System
+* Automatic Bill Calculation
+* Order History Storage
+* Console-Based User Interface
+
+## Technologies Used
+
+* Python
+* MySQL
+* mysql-connector-python
+
+## Database Tables
+
+* `signup`
+* `login`
+* `orders`
